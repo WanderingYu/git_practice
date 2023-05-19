@@ -7,7 +7,9 @@ void sort(int arr[])
   * */    
 }
 
-
+/*
+ * add by xiaoming
+ * */
 int main(int argc, char* argv{})
 {
     return 0;
